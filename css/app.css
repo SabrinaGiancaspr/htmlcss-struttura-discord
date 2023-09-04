@@ -118,3 +118,25 @@
     background-color: green;
 }
 
+/* footer black bg  */
+
+.footer-black-bg{
+    width: 100%;
+    background-color: #23272A;
+    border: 1px solid white;
+}
+
+.col-4{
+    flex-basis: calc((100% / 12) * 4);
+    background-color: #EE82EE;
+    border: 1px solid black;
+    min-height: 100px;
+}
+
+.col-2{
+    flex-basis: calc((100% / 12) * 2);
+    background-color: #20B2AA;
+    border: 1px solid black;
+    min-height: 100px;
+}
+
