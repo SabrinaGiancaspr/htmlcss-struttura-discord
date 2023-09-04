@@ -140,3 +140,16 @@
     min-height: 100px;
 }
 
+.container-footer{
+    min-height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.col-12-footer{
+    flex-basis: 100%;
+    background-color: #7FFFD4;
+    
+}
