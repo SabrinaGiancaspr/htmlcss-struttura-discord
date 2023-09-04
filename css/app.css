@@ -5,9 +5,8 @@
 }
 
 
-.nav-page{
+.nav-container{
     min-height: 70px;
-    
     padding: 20px;
     background-color:#ADD8E6 ;
     display: flex;
