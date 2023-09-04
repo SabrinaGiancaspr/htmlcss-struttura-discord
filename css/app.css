@@ -17,15 +17,34 @@
 }
 
 .col-3{
-    border: 1px solid black;
     min-height: 10px;
     flex-basis: calc(100% / 4);
     background-color: #DAA520;
+    border: 1px solid black;
 }
 
 .col-6{
-    border: 1px solid black;
     min-height: 10px;
     flex-basis: calc(100% / 2) ;
     background-color: #DAA520;
+    border: 1px solid black;
+}
+
+.header-page{
+    min-height: 300px;
+    padding: 30px;
+    background-color: #00008B;
+    display: flex;
+}
+
+.col-6-pink{
+    min-height: 80px;
+    background-color:#EE82EE;
+    flex-basis: calc(100% / 2);
+}
+
+.main-page{
+    min-height: 300px;
+    padding: 30px;
+    background-color:#FFFFFF;
 }
