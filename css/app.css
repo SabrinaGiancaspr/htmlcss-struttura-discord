@@ -105,14 +105,16 @@
 /* footer  */
 
 .footer-page{
-    display: flex;
-    flex-wrap: wrap;
-    max-width: ;
+   width: 100%;
+   background-color:#D3D3D3;
+}
+
+.green-section{
+    min-height: 500px
 }
 
 .col-12{
     flex-basis: 100%;
     background-color: green;
-    min-height: 300px;
 }
 
