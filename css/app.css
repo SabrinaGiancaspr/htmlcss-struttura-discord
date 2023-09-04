@@ -4,7 +4,9 @@
 	box-sizing: border-box;
 }
 
-
+.debug{
+    margin: 0 90px 0 90px;
+}
 .nav-container{
     min-height: 70px;
     padding: 20px;
