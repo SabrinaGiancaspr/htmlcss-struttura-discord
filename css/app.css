@@ -52,18 +52,18 @@
     min-height: 60px;
 }
 
-.blue{
-    background-color: #1E90FF;
-    border: 1px solid black;
-    min-height: 60px;
-}
-
-.light-pink{
-   background-color:#FFC0CB ; 
-}
 .main-page{
     min-height: 300px;
     padding: 30px;
-    background-color:#FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
 }
 
+.blue{
+    background-color:#1E90FF ;
+}
+
+.light-pink{
+    background-color: #FFC0CB;
+}
