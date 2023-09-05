@@ -6,7 +6,7 @@
 
 /* header row nav*/
 
-.nav-page{
+.page-header{
     width: 100%;
     background-color:#ADD8E6 ;
 }
@@ -39,7 +39,7 @@
 
 /* seconda section header  */
 
-.header-page{
+.page-section{
     width: 100%;
     background-color: #00008B;
 }
@@ -104,7 +104,7 @@
 
 /* footer  */
 
-.footer-page{
+.page-footer{
    width: 100%;
    background-color:#D3D3D3;
 }
